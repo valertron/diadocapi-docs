@@ -7,9 +7,8 @@ HTTP-интерфейс
 --------------
 
 .. toctree::
-   :name: toc3
+   :name: ca1
    :maxdepth: 1
-   :titlesonly:
 
    http/AcquireCounteragent
    http/AcquireCounteragentResult
@@ -23,8 +22,7 @@ HTTP-интерфейс
 ----------------
 
 .. toctree::
-   :name: toc4
+   :name: ca2
    :maxdepth: 1
-   :titlesonly:
 
    proto/Counteragent

@@ -5,24 +5,11 @@
    :name: main
    :maxdepth: 2
 
+   Модель данных <DataModel>
+   Порядок работы <ApiClientOperationPrinciple>
    Основные возможности <Overview>
    Руководство пользователя <user_guide/index>
-
-.. toctree::
-   :name: work
-   :maxdepth: 1
-   :caption: Техническая документация
-
-   Структуры данных <DataStructures>
-   Авторизация <Authorization>   
-   Работа с организациями <API_Organizations>
-   Работа с контрагентами <API_Counteragents>
-   Работа с сообщениями <API_Messages>
-   Работа с документами <API_Documents>
-   Работа с СФ/ИСФ/КСФ <API_Invoices>
-   Работа с событиями <API_Events>
-   Docflow API <Docflow API>
-   Облачная подпись <CloudSignApi>
+   Техническая документация <dev_guide>
 
 .. rubric:: Справочное руководство
 
@@ -32,9 +19,6 @@
 
 .. toctree::
    :name: others
-   :caption: История изменений
    :titlesonly:
    
    ReleaseNotes
-
-.. |image0| image:: _static/diadoc-logo.png

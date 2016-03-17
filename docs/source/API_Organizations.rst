@@ -7,8 +7,8 @@ HTTP-интерфейс
 --------------
 
 .. toctree::
-   :name: toc3
-   :maxdepth: 2
+   :name: org1
+   :maxdepth: 1
    :titlesonly:
 
    http/GetBox
@@ -27,8 +27,8 @@ HTTP-интерфейс
 ----------------
 
 .. toctree::
-   :name: toc4
-   :maxdepth: 2
+   :name: org2
+   :maxdepth: 1
    :titlesonly:
 
    proto/Address

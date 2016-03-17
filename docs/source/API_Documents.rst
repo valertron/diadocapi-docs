@@ -7,7 +7,7 @@ HTTP-интерфейс
 --------------
 
 .. toctree::
-   :name: toc3
+   :name: doc1
    :maxdepth: 1
    :titlesonly:
 
@@ -49,7 +49,7 @@ HTTP-интерфейс
 ----------------
 
 .. toctree::
-   :name: toc4
+   :name: doc2
    :maxdepth: 1
    :titlesonly:
 
