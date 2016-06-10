@@ -4,7 +4,7 @@ SignedContent
 .. code-block:: protobuf
 
     message SignedContent {
-        optional bytes Content = 1;
+        required bytes Content = 1;
         optional bytes Signature = 2;
         optional bool SignByAttorney = 3 [default = false];
         optional string NameOnShelf = 4;
